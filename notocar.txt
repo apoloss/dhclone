@@ -1,2 +1,6 @@
 Agustin Polito
+<<<<<<< HEAD
+
+=======
+Gaspar Adragna
 paolo lamaletto
