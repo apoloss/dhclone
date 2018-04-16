@@ -4,4 +4,11 @@ Gaspar Adragna
 Paolo Lamaletto
 zzzzz
 Ezequiel Zavala
+<<<<<<< HEAD
 Gaston prieto
+=======
+Rodrigo Uberto
+Juan Batkis
+Alejo Palladino
+>>>>>>> 71f2cef2387d2a7ac28093c8953b2490b4e628dc
+Gaston Prieto
